@@ -1,0 +1,11 @@
+@FakeStoreApiIntegration_HostAddress = http://localhost:5136
+
+GET {{FakeStoreApiIntegration_HostAddress}}/products/categories/jewelery?page=1
+Accept: application/json
+
+###
+
+GET {{FakeStoreApiIntegration_HostAddress}}/products/search?limit=2
+Accept: application/json
+
+###

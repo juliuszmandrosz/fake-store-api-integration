@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStoreApiIntegration", "FakeStoreApiIntegration\FakeStoreApiIntegration.csproj", "{5FD2127E-F32E-422D-A629-74276F41FDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStoreApiIntegration.Tests", "FakeStoreApiIntegration.Tests\FakeStoreApiIntegration.Tests.csproj", "{CBEDF515-4B98-4D77-ADF5-B8E67080F704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD2127E-F32E-422D-A629-74276F41FDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD2127E-F32E-422D-A629-74276F41FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD2127E-F32E-422D-A629-74276F41FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD2127E-F32E-422D-A629-74276F41FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEDF515-4B98-4D77-ADF5-B8E67080F704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEDF515-4B98-4D77-ADF5-B8E67080F704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEDF515-4B98-4D77-ADF5-B8E67080F704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEDF515-4B98-4D77-ADF5-B8E67080F704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
