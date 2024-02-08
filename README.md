@@ -18,13 +18,19 @@
 
 ## Getting started
 
-1. Run Redis container:
+1. Change directory
+
+```bash
+cd FakeStoreApiIntegration  
+```
+
+2. Run Redis container:
 
 ```bash
 docker-compose up
 ```
 
-2. Run api:
+3. Run api:
 
 ```bash
 dotnet run
